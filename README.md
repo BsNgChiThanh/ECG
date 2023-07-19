@@ -109,6 +109,16 @@
 
 ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/197d4b88-195c-424c-a686-3225ef348df7)
 
+## NHỒI MÁU CƠ TIM: ##
+
+1. Tối cấp:
+
+![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/31027c16-4b8a-4713-96f3-c54d5eec44ea)
+
+2. Cấp: Đang cập nhật
+
+3. Bán cấp: Đang cập nhật
+
 **MỘT SỐ ECG:**
 
 ![Ngoại tâm thu thất R/T, nhịp nhanh thất, hội chứng WPW, rung nhĩ](https://user-images.githubusercontent.com/82578024/178625217-6de098ed-ec9a-4929-b93a-c323e24ac708.jpg)
