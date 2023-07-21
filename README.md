@@ -69,25 +69,25 @@
 
 ## NHỊP NHANH QRS RỘNG ##
 
-![Tiêu chuẩn Brugada cho QRS rộng](https://user-images.githubusercontent.com/82578024/217410609-f64ed3b2-dc4b-477a-8856-0277ced04ea1.jpg)
+- ![Tiêu chuẩn Brugada cho QRS rộng](https://user-images.githubusercontent.com/82578024/217410609-f64ed3b2-dc4b-477a-8856-0277ced04ea1.jpg)
 
 Ảnh minh họa VT: Nhịp nhanh thất:
 
 1. Có phân ly nhĩ thất:
 
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/96c0d120-2c3a-4da9-88fd-56d63f6e7046)
-![Nhanh thất có phân ly nhĩ thất 2](https://user-images.githubusercontent.com/82578024/177109531-609aa58c-b8f6-4819-8da3-b3300a2a7469.gif)
-![Nhĩ thất phân ly](https://user-images.githubusercontent.com/82578024/177112228-86261d95-4380-49d5-aa9e-a5faff1aabce.jpg)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/96c0d120-2c3a-4da9-88fd-56d63f6e7046)
+- ![Nhanh thất có phân ly nhĩ thất 2](https://user-images.githubusercontent.com/82578024/177109531-609aa58c-b8f6-4819-8da3-b3300a2a7469.gif)
+- ![Nhĩ thất phân ly](https://user-images.githubusercontent.com/82578024/177112228-86261d95-4380-49d5-aa9e-a5faff1aabce.jpg)
 
 2. Có dang RS hoặc R hoặc QS từ V1 đến V6:
 
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b4eb0cfc-c739-4b5e-b19d-46e2f27939b5)
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/0e527b9b-12fa-400e-b237-9332d903910c)
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/3662759c-0c2c-479d-9ced-818bae075b4f)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b4eb0cfc-c739-4b5e-b19d-46e2f27939b5)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/0e527b9b-12fa-400e-b237-9332d903910c)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/3662759c-0c2c-479d-9ced-818bae075b4f)
 
 3. S > 0,1s ở chuyển đạo trước tim:
 
-![S lớn hơn 0,1s](https://user-images.githubusercontent.com/82578024/177112176-9f906aa1-45a3-4d19-87dc-3d2bdf66c5da.gif)
+- ![S lớn hơn 0,1s](https://user-images.githubusercontent.com/82578024/177112176-9f906aa1-45a3-4d19-87dc-3d2bdf66c5da.gif)
 
 4. Có hình thái giống một ngoại tâm thu thất: tức có nghĩa trước đó ca này có một ngoại tâm thu thất đã bắt được trên ECG, sau đó xuất hiện một nhịp nhanh có QRS rộng giống với nhát ngoại tâm thu thất đó thì ta kết luận nhịp nhanh đó là nhanh thất.
 
@@ -99,30 +99,32 @@
 - Q3: Sóng Q ở D3
 - T3: Sóng T âm ở D3
 
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/9beb1a83-4482-4281-82ac-c6425a6d4307)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/9beb1a83-4482-4281-82ac-c6425a6d4307)
 
 ## XOẮN ĐỈNH ##
 
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/90f27247-b3d3-4510-8492-865b908a21a2)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/90f27247-b3d3-4510-8492-865b908a21a2)
 
 ## HỘI CHỨNG W-P-W: ##
 
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/197d4b88-195c-424c-a686-3225ef348df7)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/197d4b88-195c-424c-a686-3225ef348df7)
 
 ## NHỒI MÁU CƠ TIM: ##
 
 1. Tối cấp:
 
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/31027c16-4b8a-4713-96f3-c54d5eec44ea)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/31027c16-4b8a-4713-96f3-c54d5eec44ea)
 
 2. Cấp: Đang cập nhật
 
-3. Bán cấp: Đang cập nhật
+3. Bán cấp:
+
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/824bbbf6-35dc-4f8f-91ea-8e2681f4fce3)
 
 **MỘT SỐ ECG:**
 
-![Ngoại tâm thu thất R/T, nhịp nhanh thất, hội chứng WPW, rung nhĩ](https://user-images.githubusercontent.com/82578024/178625217-6de098ed-ec9a-4929-b93a-c323e24ac708.jpg)
+- ![Ngoại tâm thu thất R/T, nhịp nhanh thất, hội chứng WPW, rung nhĩ](https://user-images.githubusercontent.com/82578024/178625217-6de098ed-ec9a-4929-b93a-c323e24ac708.jpg)
 
-![Ngoại tâm thu thất R/T, nhịp nhanh thất, hội chứng WPW, rung nhĩ](https://user-images.githubusercontent.com/82578024/178625257-1308437b-b4d2-488d-aecc-49feaa1dd516.jpg)
+- ![Ngoại tâm thu thất R/T, nhịp nhanh thất, hội chứng WPW, rung nhĩ](https://user-images.githubusercontent.com/82578024/178625257-1308437b-b4d2-488d-aecc-49feaa1dd516.jpg)
 
-![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/36f14ced-2b9d-4e17-aab6-ab345ed1bc5c)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/36f14ced-2b9d-4e17-aab6-ab345ed1bc5c)
