@@ -19,9 +19,8 @@
 
 **Khi đo V6 đến V12 phải cho bệnh nhân nằm nghiêng sang phải, điện cực chi mắc bình thường, V1 mắc tại vị trí V6, V2 mắc tại V7, tương tự ... V6 mắc tại V12, khi đo ra thì chỉ có V1 đến V6 thôi khi đó ta sửa V1 thành V7, V2 thành V8, tương tự V6 thành V12. V6 đến V12 để khảo sát tổn thương thành sau thực**
 
-![image](https://user-images.githubusercontent.com/82578024/180625786-62c91daf-64dc-4f76-8b4c-10a34b69484a.png)
-
-![image](https://user-images.githubusercontent.com/82578024/180625801-55341681-547f-4389-948b-1ffb92d0eb1b.png)
+- ![image](https://user-images.githubusercontent.com/82578024/180625786-62c91daf-64dc-4f76-8b4c-10a34b69484a.png)
+- ![image](https://user-images.githubusercontent.com/82578024/180625801-55341681-547f-4389-948b-1ffb92d0eb1b.png)
 
 **Điện tim ngực phải**
 
@@ -29,12 +28,11 @@
 - V1 đến V6 mắc đối xứng qua xương ức.
 - Khi đo ra V1 đến V6 thì ghi thêm chữ R **(Right)** tức là: **V1R, V2R, V3R... V6R**
 - Dùng V4R để khảo sát nhồi máu cơ tim thất phải. Khi ST ở V4R chênh lên 1mm thì khẳng định có NMCT thất phải.
-
-![image](https://user-images.githubusercontent.com/82578024/180625762-0c01e10f-74a0-4d08-bcdc-60e2d5188f56.png)
+- ![image](https://user-images.githubusercontent.com/82578024/180625762-0c01e10f-74a0-4d08-bcdc-60e2d5188f56.png)
 
 ## Đọc trục điện tim, tư thế tim ##
 
-![Trục điện tim](https://user-images.githubusercontent.com/82578024/176445101-f77852b0-a423-4fad-8a52-b6cf001c05dc.png)
+- ![Trục điện tim](https://user-images.githubusercontent.com/82578024/176445101-f77852b0-a423-4fad-8a52-b6cf001c05dc.png)
 
 **Câu thiệu: R3, L2, F1: (Rờ 3 chỗ, Lờ 2 lỗ, Fuck chỉ có 1 cái)**
 - aVR vuông góc D3
