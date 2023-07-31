@@ -110,6 +110,19 @@ C. Block AV độ 3:
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/e424783f-4388-42e0-9144-bfc187eea456)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/949a3489-c51a-46c3-bc66-7af782d27506)
 
+## BLOCK NHÁNH: ##
+A. BLOCK NHÁNH PHẢI:
+- BLOCK NHÁNH P: được chia làm 2 loại:
+  - Block nhánh phải hoàn toàn: QRS dãn rộng ở V1, V2 ≥ 120 mili giây.
+  - Block nhánh phải không hoàn toàn: QRS dãn nhẹ ở V1, V2 < 120 mili giây.
+B. BLOCK NHÁNH TRÁI:
+- BLOCK TRÁI P: được chia làm 2 loại:
+  - Block nhánh trái hoàn toàn: QRS dãn rộng ở V5, V6 ≥ 120 mili giây.
+  - Block nhánh trái không hoàn toàn: QRS dãn nhẹ ở V5, V6 < 120 mili giây.
+C. BLOCK PHÂN NHÁNH TRÁI:
+- Block phân nhánh trái được chia thành 2 loại: Block phân nhánh trái trước và Block phân nhánh trái sau.
+- BLOCK PHÂN NHÁNH TRÁI TRƯỚC:
+- BLOCK PHÂN NHÁNH TRÁI SAU:
 ## NHỒI MÁU PHỔI: ##
 
 *Có tổn thương:*
