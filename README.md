@@ -50,7 +50,7 @@
 
 ## NHỊP NHANH QRS HẸP ##
 
-1. Nhịp nhanh trên thất:
+1. Nhịp nhanh trên thất: (nhịp nhanh từ tầng nhĩ)
 
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/97cd2175-cefa-4049-94f9-7606f4325188)
 
@@ -59,10 +59,12 @@
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/65551210-36be-4fdc-9168-48873bd9e7aa)
 
 3. Nhanh bộ nối gia tốc:
-
-- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/4619ab9d-030c-4f4b-8800-2f62de692fd0)
-
-4. Nhanh nhĩ đa ổ: (sóng P nhiều hình dạng)
+- Nhịp tim nhanh bộ nối tự động thường không đáp ứng với thao tác phế vị - có thể một số chậm lại tạm thời của tần số thất nhưng đổi trở lại nhịp xoang sẽ không xảy ra.
+- Nguyên nhân bao gồm thiếu máu cục bộ cơ tim, ngộ độc digoxin, phẫu thuật tim, viêm cơ tim và ngộ độc beta-agonists
+- Sóng P ngược có thể có mặt và có thể xuất hiện trước, trong hoặc sau khi QRS
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/2a07d179-6dc2-4a7c-8e73-37250243b1e1)
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/4619ab9d-030c-4f4b-8800-2f62de692fd0)
+4. Nhanh nhĩ đa ổ: (≥ 2 sóng P có hình dạng khác nhau )
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/81ef6b9e-228b-4b19-8a0a-cd6ddfaff6f4)
 
 ## NHỊP NHANH QRS RỘNG ##
@@ -71,7 +73,7 @@
 
 Ảnh minh họa VT: Nhịp nhanh thất:
 
-1. Có phân ly nhĩ thất:
+1. Có phân ly nhĩ thất (Tần số nhĩ và thất không bằng nhau):
 
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/96c0d120-2c3a-4da9-88fd-56d63f6e7046)
 - ![Nhanh thất có phân ly nhĩ thất 2](https://user-images.githubusercontent.com/82578024/177109531-609aa58c-b8f6-4819-8da3-b3300a2a7469.gif)
@@ -100,11 +102,13 @@
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/9beb1a83-4482-4281-82ac-c6425a6d4307)
 
 ## XOẮN ĐỈNH ##
-
+- xoắn đỉnh là một dạng đặc hiệu của nhịp nhanh thất đa hình trên những bệnh nhân có khoảng QT dài. Xoắn đỉnh được đặc trưng bởi các phức bộ QRS với tần số nhanh, không đều, và có dạng như xoay xung quanh một trục cố định. Cơn xoắn đỉnh có thể tự cắt cơn một cách tự nhiên hoặc tiến triển thành cơn rung thất. Gây ảnh hưởng nặng nề lên huyết động và thường dẫn tới tử vong. Chẩn đoán bằng ECG. Điều trị bằng magiê theo đường tĩnh mạch, các biện pháp rút ngắn khoảng QT và khử rung tim bằng dòng điện 1 chiều khi rung thất xuất hiện.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/90f27247-b3d3-4510-8492-865b908a21a2)
 
 ## HỘI CHỨNG W-P-W: ##
-
+- thường có đường dẫn truyền phụ (Cầu Kent)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/76651f7b-c175-46ba-8bbc-14bb490bf75b)
+- ![Untitled-1](https://github.com/BsNgChiThanh/ECG/assets/82578024/8f26c39f-c801-4f93-a88a-241c5c65c478)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/197d4b88-195c-424c-a686-3225ef348df7)
 
 ## NHỒI MÁU CƠ TIM: ##
@@ -118,6 +122,17 @@
 3. Bán cấp:
 
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/824bbbf6-35dc-4f8f-91ea-8e2681f4fce3)
+
+## RUNG CUỒNG NHĨ: ##
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/1b4329b9-6eb3-4312-bced-98d2ecdf29c0)
+- Rung nhĩ, cuồng nhĩ thì thường là nhịp tim không đều; cũng có những trường hợp rung vừa rung vừa cuồng nhĩ (gọi tắt là rung cuồng nhĩ).
+- Nếu rung nhĩ, cuồng nhĩ, rung cuồng nhĩ mà nhịp tim rất chi là đều thì nó nhất định phải phối hợp với Block AV độ 3, lúc đó tần số QRS chậm ≤ 50 nhịp/phút.
+- Rung cuồng nhĩ phối hợp Block AV độ 3:
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/e5710fd3-6c57-4142-aad4-2c2c82da0116)
+- Rung nhĩ:
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/e036dcbd-9e99-4014-a342-ec0583998e40)
+- Cuồng nhĩ:
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/85e4c4c1-164e-4c9a-8778-99c443a2dc65)
 
 **MỘT SỐ ECG:**
 
