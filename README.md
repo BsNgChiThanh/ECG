@@ -91,6 +91,25 @@
 
 4. Có hình thái giống một ngoại tâm thu thất: tức có nghĩa trước đó ca này có một ngoại tâm thu thất đã bắt được trên ECG, sau đó xuất hiện một nhịp nhanh có QRS rộng giống với nhát ngoại tâm thu thất đó thì ta kết luận nhịp nhanh đó là nhanh thất.
 
+## BLOCK NHĨ THẤT (Block AV): ##
+A. Block AV độ 1:
+- Đối với block cấp 1, dẫn truyền bị chậm lại mà không bỏ nhịp. Tất cả các sóng P bình thường sau đó là các phức hợp QRS, nhưng khoảng PR dài hơn bình thường (> 0,2 giây)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/d6fc8ce0-1f78-492c-893b-2e3835334722)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/0c3142fe-2d08-4ee3-adbe-716c4de5b08e)
+B. Block AV độ 2: Được chia là 2 trường hợp: Mobitz 1 và Mobitz 2.
+- Block AV độ 2 Mobitz 1:
+  - Khoảng PR kéo dài dần cho đến khi có một sóng P không được nối tiếp bởi phức bộ QRS (hiện tượng Wenckebach); sự dẫn truyền qua nút nhĩ thất phục hồi ở nhịp kế tiếp, và chuỗi lặp lại.
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/7d6092be-13f5-4ae8-86d2-4f4990cef1b2)
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/5eea397b-b433-48ce-b187-f61b4dd9a784)
+- Block AV độ 2 Mobitz 2:
+  - Khoảng PR không đổi. Xung động từ nhĩ không dẫn được xuống thất từng lúc, dẫn tới mất phức bộ QRS trên điện tâm đồ, thường lặp lại với chu kỳ mỗi 3 (block 3:1) hoặc 4 (block 4:1) nhịp xoang.
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/1f313bb0-a139-42f3-8dcb-0a87e4f91f29)
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/47381296-9dec-4436-9c89-6028fc7a6c6f)
+C. Block AV độ 3:
+- Không có mối quan hệ giữa sóng P và phức bộ QRS (phân ly nhĩ thất) trong block nhĩ thất cấp 3. Tỷ lệ sóng P lớn hơn tần số QRS. Nhịp nền ở đây là nhịp thoát bộ nối với các phức bộ QRS hẹp và tốc độ khoảng 65 lần/phút.
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/e424783f-4388-42e0-9144-bfc187eea456)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/949a3489-c51a-46c3-bc66-7af782d27506)
+
 ## NHỒI MÁU PHỔI: ##
 
 *Có tổn thương:*
@@ -117,11 +136,19 @@
 
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/31027c16-4b8a-4713-96f3-c54d5eec44ea)
 
-2. Cấp: Đang cập nhật
+2. Cấp:
 
-3. Bán cấp:
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/3ff3e633-7d91-4fbb-8772-6a347a6db873)
+
+4. Bán cấp:
 
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/824bbbf6-35dc-4f8f-91ea-8e2681f4fce3)
+
+**Hình ảnh soi gương:**
+  - Là sự đối xướng của ST và T qua mặt gương giả định là đường đẳng điện.
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/cfcff53f-6c4b-432c-ba09-67317b1630d3)
+  - Trong trường hợp này ta thấy AVL soi gương với D3.
+  - ![Untitled-1](https://github.com/BsNgChiThanh/ECG/assets/82578024/42a5b21d-e147-4c5d-add6-b3a873f3b467)
 
 ## RUNG CUỒNG NHĨ: ##
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/1b4329b9-6eb3-4312-bced-98d2ecdf29c0)
