@@ -113,16 +113,74 @@ C. Block AV độ 3:
 ## BLOCK NHÁNH: ##
 A. BLOCK NHÁNH PHẢI:
 - BLOCK NHÁNH P: được chia làm 2 loại:
-  - Block nhánh phải hoàn toàn: QRS dãn rộng ở V1, V2 ≥ 120 mili giây.
-  - Block nhánh phải không hoàn toàn: QRS dãn nhẹ ở V1, V2 < 120 mili giây.
+  - Block nhánh phải hoàn toàn: QRS dãn rộng ở V1, V2 ≥ 0,12 giây.
+    - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/fc264fab-e8ce-4fe6-901d-a8c53736255e)
+  - Block nhánh phải không hoàn toàn: QRS dãn nhẹ ở V1, V2 từ 0,10-0.11 giây. (Đang cập nhật)
 B. BLOCK NHÁNH TRÁI:
 - BLOCK TRÁI P: được chia làm 2 loại:
-  - Block nhánh trái hoàn toàn: QRS dãn rộng ở V5, V6 ≥ 120 mili giây.
-  - Block nhánh trái không hoàn toàn: QRS dãn nhẹ ở V5, V6 < 120 mili giây.
+  - Block nhánh trái hoàn toàn: QRS dãn rộng ở V5, V6 ≥ 0,12 giây.
+    - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/37c974e2-f3fa-4329-aa05-7f9625e5bfb2)
+  - Block nhánh trái không hoàn toàn: QRS dãn nhẹ ở  V1, V2 từ 0,10-0,11 giây.
 C. BLOCK PHÂN NHÁNH TRÁI:
 - Block phân nhánh trái được chia thành 2 loại: Block phân nhánh trái trước và Block phân nhánh trái sau.
-- BLOCK PHÂN NHÁNH TRÁI TRƯỚC:
-- BLOCK PHÂN NHÁNH TRÁI SAU:
+- BLOCK PHÂN NHÁNH TRÁI TRƯỚC: có nhiều tiêu chuẩn nhưng có 3 tiêu chuẩn quan trọng:
+  - q ở D1, AVL
+  - r ở D2, D3, AVF
+  - Độ rộng QRS bình thường.
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b368a9ba-c1ca-4c25-a4bd-db69ccb998ab)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/2f4fe3a4-680b-4de1-ba15-b5c0508248ce)
+- BLOCK PHÂN NHÁNH TRÁI SAU: Nhiều tiêu chuẩn nhưng 3 tiêu chuẩn quan trọng:
+  - r ở D1, AVL
+  - q ở D2, D3, AVF
+  - Độ rộng QRS bình thường.
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/c2f7aed2-9e55-4cd5-965d-a1d114a00a2f)
+## DÀY NHĨ: ##
+A. DÀY NHĨ TRÁI:
+  - P rộng ở D2 ≥ 0,12 giây.
+  - Trục P lệch trái.
+B. DÀY NHĨ PHẢI:
+  - P cao ở D2 ≥ 2,5mm
+  - Trục P lệch phải.
+C. DÀY 2 NHĨ:
+  - P ở D2 vừa rộng vừa cao trong tiêu chuẩn nói trên.
+  - Thường gặp trong: hẹp van 2 lá có tăng áp ĐMP, hẹp 2 lá và hở van 3 lá, hẹp 2 lá và hẹp 3 lá, hội chứng Lutembacher.
+  - Phì đại hai tâm nhĩ: Sóng P ở DII cao (> 2,5mm) và rộng (> 120ms). Phì đại tâm nhĩ phải: Sóng P biên độ > 1,5 mm trong V2:
+    - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/a2ac3a2a-be11-41f1-b50f-2201def25cad)
+
+## DÀY THẤT: ##
+A. DÀY THẤT TRÁI:
+  - Thang điểm Romhilt-Estes
+    - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/63676a6d-3318-4df5-9082-4279e4e65b63)
+  - Tiêu chuẩn Sokolov-Lyon:
+    - R (V5 hoặc V6) + SV1 > 35 mm
+    Hoặc
+    - R (V5 hoặc V6) > 26 mm
+  - Tiêu chuẩn điện thế Cornell:
+    - Nữ: R ở aVL + S ở V3 > 20 mm
+    - Nam: R ở aVL + S ở V3 > 28 mm
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/9b7ebb0d-30e3-4966-a1ac-7c761edb9acb)
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/72e198ab-9e3d-4edb-830c-66da4ed8b477)
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/37690ade-1591-418a-994b-142bc3aeea6d)
+  - Hiện tượng tăng gánh thất trái:
+    - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/5416e835-b1a6-44a1-af9b-e63103422273) 
+B. DÀY THẤT PHẢI:
+  - Tiêu chuẩn Sokolov-Lyon:
+    - R (ở V1) + S (ở V5 hoặc V6) ≥ 11 mm
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b17a5646-6710-43f5-9818-e3e72d62047b)
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/92d39a85-1d45-45b2-b72b-f3308da6c9eb)
+  - Hiện tượng tăng gánh thất phải:
+    - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/0ac4a474-e50e-4981-b55a-07a140e412ba)
+
+C. DÀY 2 THẤT:
+  1. RS 2 pha kèm điện thế cao ở các chuyển đạo ngực giữa
+  2. Tiêu chuẩn điện thế thỏa dày thất trái trên các chuyển đạo ngực + trục lệch phải ở các chuyển đạo chi.
+  3. s nhỏ ở V1 + S rất sâu ở V2
+  4. Tiêu chuẩn điện thế thỏa dày thất trái trên các chuyển đạo ngực trái + R cao ở các chuyển đạo ngực phải.
+  5. Dấu hiệu lớn nhĩ trái + bất kỳ tiêu chuẩn nào của lớn thất phải.
+  6. R cao trên tất cả các chuyển đạo ngực
+  ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/a2148812-33ec-4caa-b903-499c5cea579e)
+  ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/cdf6c019-2579-44ec-b184-44a7c5f4d75e)
+
 ## NHỒI MÁU PHỔI: ##
 
 *Có tổn thương:*
