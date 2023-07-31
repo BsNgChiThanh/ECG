@@ -121,11 +121,11 @@ C. Block AV độ 3:
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/9beb1a83-4482-4281-82ac-c6425a6d4307)
 
 ## XOẮN ĐỈNH ##
-- xoắn đỉnh là một dạng đặc hiệu của nhịp nhanh thất đa hình trên những bệnh nhân có khoảng QT dài. Xoắn đỉnh được đặc trưng bởi các phức bộ QRS với tần số nhanh, không đều, và có dạng như xoay xung quanh một trục cố định. Cơn xoắn đỉnh có thể tự cắt cơn một cách tự nhiên hoặc tiến triển thành cơn rung thất. Gây ảnh hưởng nặng nề lên huyết động và thường dẫn tới tử vong. Chẩn đoán bằng ECG. Điều trị bằng magiê theo đường tĩnh mạch, các biện pháp rút ngắn khoảng QT và khử rung tim bằng dòng điện 1 chiều khi rung thất xuất hiện.
+- Xoắn đỉnh là một dạng đặc hiệu của nhịp nhanh thất đa hình trên những bệnh nhân có khoảng QT dài. Xoắn đỉnh được đặc trưng bởi các phức bộ QRS với tần số nhanh, không đều, và có dạng như xoay xung quanh một trục cố định. Cơn xoắn đỉnh có thể tự cắt cơn một cách tự nhiên hoặc tiến triển thành cơn rung thất. Gây ảnh hưởng nặng nề lên huyết động và thường dẫn tới tử vong. Chẩn đoán bằng ECG. Điều trị bằng magiê theo đường tĩnh mạch, các biện pháp rút ngắn khoảng QT và khử rung tim bằng dòng điện 1 chiều khi rung thất xuất hiện.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/90f27247-b3d3-4510-8492-865b908a21a2)
 
 ## HỘI CHỨNG W-P-W: ##
-- thường có đường dẫn truyền phụ (Cầu Kent)
+- Thường có đường dẫn truyền phụ (Cầu Kent)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/76651f7b-c175-46ba-8bbc-14bb490bf75b)
 - ![Untitled-1](https://github.com/BsNgChiThanh/ECG/assets/82578024/8f26c39f-c801-4f93-a88a-241c5c65c478)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/197d4b88-195c-424c-a686-3225ef348df7)
