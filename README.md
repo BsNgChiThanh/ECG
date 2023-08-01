@@ -59,12 +59,15 @@
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/65551210-36be-4fdc-9168-48873bd9e7aa)
 
 3. Nhanh bộ nối gia tốc:
+
 - Nhịp tim nhanh bộ nối tự động thường không đáp ứng với thao tác phế vị - có thể một số chậm lại tạm thời của tần số thất nhưng đổi trở lại nhịp xoang sẽ không xảy ra.
 - Nguyên nhân bao gồm thiếu máu cục bộ cơ tim, ngộ độc digoxin, phẫu thuật tim, viêm cơ tim và ngộ độc beta-agonists
 - Sóng P ngược có thể có mặt và có thể xuất hiện trước, trong hoặc sau khi QRS
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/2a07d179-6dc2-4a7c-8e73-37250243b1e1)
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/4619ab9d-030c-4f4b-8800-2f62de692fd0)
+
 4. Nhanh nhĩ đa ổ: (≥ 2 sóng P có hình dạng khác nhau )
+
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/81ef6b9e-228b-4b19-8a0a-cd6ddfaff6f4)
 
 ## NHỊP NHANH QRS RỘNG ##
@@ -92,11 +95,14 @@
 4. Có hình thái giống một ngoại tâm thu thất: tức có nghĩa trước đó ca này có một ngoại tâm thu thất đã bắt được trên ECG, sau đó xuất hiện một nhịp nhanh có QRS rộng giống với nhát ngoại tâm thu thất đó thì ta kết luận nhịp nhanh đó là nhanh thất.
 
 ## BLOCK NHĨ THẤT (Block AV): ##
+
 A. Block AV độ 1:
 - Đối với block cấp 1, dẫn truyền bị chậm lại mà không bỏ nhịp. Tất cả các sóng P bình thường sau đó là các phức hợp QRS, nhưng khoảng PR dài hơn bình thường (> 0,2 giây)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/d6fc8ce0-1f78-492c-893b-2e3835334722)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/0c3142fe-2d08-4ee3-adbe-716c4de5b08e)
+
 B. Block AV độ 2: Được chia là 2 trường hợp: Mobitz 1 và Mobitz 2.
+
 - Block AV độ 2 Mobitz 1:
   - Khoảng PR kéo dài dần cho đến khi có một sóng P không được nối tiếp bởi phức bộ QRS (hiện tượng Wenckebach); sự dẫn truyền qua nút nhĩ thất phục hồi ở nhịp kế tiếp, và chuỗi lặp lại.
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/7d6092be-13f5-4ae8-86d2-4f4990cef1b2)
@@ -105,22 +111,26 @@ B. Block AV độ 2: Được chia là 2 trường hợp: Mobitz 1 và Mobitz 2.
   - Khoảng PR không đổi. Xung động từ nhĩ không dẫn được xuống thất từng lúc, dẫn tới mất phức bộ QRS trên điện tâm đồ, thường lặp lại với chu kỳ mỗi 3 (block 3:1) hoặc 4 (block 4:1) nhịp xoang.
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/1f313bb0-a139-42f3-8dcb-0a87e4f91f29)
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/47381296-9dec-4436-9c89-6028fc7a6c6f)
+
 C. Block AV độ 3:
 - Không có mối quan hệ giữa sóng P và phức bộ QRS (phân ly nhĩ thất) trong block nhĩ thất cấp 3. Tỷ lệ sóng P lớn hơn tần số QRS. Nhịp nền ở đây là nhịp thoát bộ nối với các phức bộ QRS hẹp và tốc độ khoảng 65 lần/phút.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/e424783f-4388-42e0-9144-bfc187eea456)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/949a3489-c51a-46c3-bc66-7af782d27506)
 
 ## BLOCK NHÁNH: ##
+
 A. BLOCK NHÁNH PHẢI:
 - BLOCK NHÁNH P: được chia làm 2 loại:
   - Block nhánh phải hoàn toàn: QRS dãn rộng ở V1, V2 ≥ 0,12 giây.
     - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/fc264fab-e8ce-4fe6-901d-a8c53736255e)
   - Block nhánh phải không hoàn toàn: QRS dãn nhẹ ở V1, V2 từ 0,10-0.11 giây. (Đang cập nhật)
+
 B. BLOCK NHÁNH TRÁI:
 - BLOCK TRÁI P: được chia làm 2 loại:
   - Block nhánh trái hoàn toàn: QRS dãn rộng ở V5, V6 ≥ 0,12 giây.
     - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/37c974e2-f3fa-4329-aa05-7f9625e5bfb2)
   - Block nhánh trái không hoàn toàn: QRS dãn nhẹ ở  V1, V2 từ 0,10-0,11 giây.
+
 C. BLOCK PHÂN NHÁNH TRÁI:
 - Block phân nhánh trái được chia thành 2 loại: Block phân nhánh trái trước và Block phân nhánh trái sau.
 - BLOCK PHÂN NHÁNH TRÁI TRƯỚC: có nhiều tiêu chuẩn nhưng có 3 tiêu chuẩn quan trọng:
@@ -134,13 +144,17 @@ C. BLOCK PHÂN NHÁNH TRÁI:
   - q ở D2, D3, AVF
   - Độ rộng QRS bình thường.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/c2f7aed2-9e55-4cd5-965d-a1d114a00a2f)
+
 ## DÀY NHĨ: ##
+
 A. DÀY NHĨ TRÁI:
   - P rộng ở D2 ≥ 0,12 giây.
   - Trục P lệch trái.
+
 B. DÀY NHĨ PHẢI:
   - P cao ở D2 ≥ 2,5mm
   - Trục P lệch phải.
+
 C. DÀY 2 NHĨ:
   - P ở D2 vừa rộng vừa cao trong tiêu chuẩn nói trên.
   - Thường gặp trong: hẹp van 2 lá có tăng áp ĐMP, hẹp 2 lá và hở van 3 lá, hẹp 2 lá và hẹp 3 lá, hội chứng Lutembacher.
@@ -148,6 +162,7 @@ C. DÀY 2 NHĨ:
     - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/a2ac3a2a-be11-41f1-b50f-2201def25cad)
 
 ## DÀY THẤT: ##
+
 A. DÀY THẤT TRÁI:
   - Thang điểm Romhilt-Estes
     - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/63676a6d-3318-4df5-9082-4279e4e65b63)
@@ -163,6 +178,7 @@ A. DÀY THẤT TRÁI:
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/37690ade-1591-418a-994b-142bc3aeea6d)
   - Hiện tượng tăng gánh thất trái:
     - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/5416e835-b1a6-44a1-af9b-e63103422273) 
+
 B. DÀY THẤT PHẢI:
   - Tiêu chuẩn Sokolov-Lyon:
     - R (ở V1) + S (ở V5 hoặc V6) ≥ 11 mm
@@ -182,6 +198,7 @@ C. DÀY 2 THẤT:
   ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/cdf6c019-2579-44ec-b184-44a7c5f4d75e)
 
 ## NGOẠI TÂM THU NHĨ: ##
+
 - Sóng P đến sớm bất thường.
 - **Thời gian nghỉ bù không hoàn toàn (Tức 2 đoạn RR có chứa ngoại tâm thu nhỏ hơn hai đoạn RR bình thường (Thời gian nghỉ bù sau NTT nhĩ hoàn toàn hoặc dài hơn vì hiện tượng ức chế do tần số cao)**
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b0362146-4a1a-4726-a87b-3426f349083f)
@@ -192,6 +209,7 @@ C. DÀY 2 THẤT:
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/d28178be-e56a-4d14-9b07-766dec5b48d0)
 - Ngoại tâm thu nhĩ có nhịp bộ nối (P đão ngược):
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/5380c53a-8031-4f02-b5f2-8efb75ca79d7)
+
 ## NGOẠI TÂM THU THẤT: ##
 
 **Tiêu chuẩn:**
@@ -232,10 +250,12 @@ C. DÀY 2 THẤT:
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/9beb1a83-4482-4281-82ac-c6425a6d4307)
 
 ## XOẮN ĐỈNH ##
+
 - Xoắn đỉnh là một dạng đặc hiệu của nhịp nhanh thất đa hình trên những bệnh nhân có khoảng QT dài. Xoắn đỉnh được đặc trưng bởi các phức bộ QRS với tần số nhanh, không đều, và có dạng như xoay xung quanh một trục cố định. Cơn xoắn đỉnh có thể tự cắt cơn một cách tự nhiên hoặc tiến triển thành cơn rung thất. Gây ảnh hưởng nặng nề lên huyết động và thường dẫn tới tử vong. Chẩn đoán bằng ECG. Điều trị bằng magiê theo đường tĩnh mạch, các biện pháp rút ngắn khoảng QT và khử rung tim bằng dòng điện 1 chiều khi rung thất xuất hiện.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/90f27247-b3d3-4510-8492-865b908a21a2)
 
 ## HỘI CHỨNG W-P-W: ##
+
 - Thường có đường dẫn truyền phụ (Cầu Kent)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/76651f7b-c175-46ba-8bbc-14bb490bf75b)
 - ![Untitled-1](https://github.com/BsNgChiThanh/ECG/assets/82578024/8f26c39f-c801-4f93-a88a-241c5c65c478)
@@ -256,6 +276,7 @@ C. DÀY 2 THẤT:
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/824bbbf6-35dc-4f8f-91ea-8e2681f4fce3)
 
 **Hình ảnh soi gương:**
+
   - Là sự đối xướng của ST và T qua mặt gương giả định là đường đẳng điện.
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/cfcff53f-6c4b-432c-ba09-67317b1630d3)
   - Trong trường hợp này ta thấy AVL soi gương với D3.
@@ -282,15 +303,20 @@ C. DÀY 2 THẤT:
 ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/8de21631-a3cc-4594-a4b7-ac4d979977fb)
 
 ## HỘI CHỨNG BRUGADA ##
+
 - Chú ý đừng lẫn lộn giữa hội chứng Brugada với tiêu chuẩn Brugada trong nhịp nhanh QRS dãn rộng!
 - Hội chứng Brugada gồm 3 type.
+
 ### HỘI CHỨNG BRUGADA TYPE 1: ###
+
 - ST chênh lên cao ở V1 và V2 (đôi khi cả V3) làm cho phức bộ QRS giống kiểu block nhánh phải. Đoạn ST có dạng cong vòm và đi dốc xuống nối tiếp vào 1 sóng T đảo chiều.
 - Tỉ lệ đột tử cao.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/5cc9b0a5-44a9-41db-83e7-7e094543d54b)
+
 ### HỘI CHỨNG BRUGADA TYPE 2: ###
 - Có ST > 2mm chênh lên ở V1 và V2 (đôi khi cả V3) hình mái sống trâu.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/0b1beffe-82ee-4ee2-8eab-a9cb0ae1d8cf)
+
 ### HỘI CHỨNG BRUGADA TYPE 2: ###
 - Có thể là hình thái của một trong hai loại 1 hoặc loại 2, nhưng với ST chênh < 2mm ở V1 và V2 (đôi khi cả V3).
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/cd370ed1-6ecd-4524-be80-0070c67c00ca)
