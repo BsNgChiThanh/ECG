@@ -188,7 +188,7 @@ C. DÀY 2 THẤT:
 - Nếu QRS hẹp thì đọc Ngoại tâm thu nhĩ bình thường.
 - Nếu QRS dãn rộng thì đọc ngoại tâm thu nhĩ dẫn truyền lệch hướng:
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/aebfd979-0719-4e68-9ceb-9f03bf9ba4cb)
-- Hiện tượng ngoại tâm thu nhĩ không dẫn (tức không có QRS trước P):
+- Hiện tượng ngoại tâm thu nhĩ không dẫn (tức không có QRS sau sóng P):
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/d28178be-e56a-4d14-9b07-766dec5b48d0)
 - Ngoại tâm thu nhĩ có nhịp bộ nối (P đão ngược):
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/5380c53a-8031-4f02-b5f2-8efb75ca79d7)
