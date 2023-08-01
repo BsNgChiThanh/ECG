@@ -181,6 +181,46 @@ C. DÀY 2 THẤT:
   ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/a2148812-33ec-4caa-b903-499c5cea579e)
   ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/cdf6c019-2579-44ec-b184-44a7c5f4d75e)
 
+## NGOẠI TÂM THU NHĨ: ##
+- Sóng P đến sớm bất thường.
+- **Thời gian nghỉ bù không hoàn toàn (Tức 2 đoạn RR có chứa ngoại tâm thu nhỏ hơn hai đoạn RR bình thường (Thời gian nghỉ bù sau NTT nhĩ hoàn toàn hoặc dài hơn vì hiện tượng ức chế do tần số cao)**
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b0362146-4a1a-4726-a87b-3426f349083f)
+- Nếu QRS hẹp thì đọc Ngoại tâm thu nhĩ bình thường.
+- Nếu QRS dãn rộng thì đọc ngoại tâm thu nhĩ dẫn truyền lệch hướng:
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/aebfd979-0719-4e68-9ceb-9f03bf9ba4cb)
+- Hiện tượng ngoại tâm thu nhĩ không dẫn (tức không có QRS trước P):
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/d28178be-e56a-4d14-9b07-766dec5b48d0)
+- Ngoại tâm thu nhĩ có nhịp bộ nối (P đão ngược):
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/5380c53a-8031-4f02-b5f2-8efb75ca79d7)
+## NGOẠI TÂM THU THẤT: ##
+
+**Tiêu chuẩn:**
+
+  - Không sóng P đi trước.
+  - QRS dị dạng, rộng > 0,12 giây.
+  - Thời gian nghỉ bù hoàn toàn:
+    - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/6d68f71d-2ee6-4727-8b08-62f853946ad1)
+
+- **Phân biệt ngoại tâm thu thất Phải và ngoại tâm thu thất Trái:**
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/221d0c7c-5e1e-4cfc-9562-a72777764e60)
+
+| Hình dạng ngoại tâm thu thất Trái | Hình dạng ngoại tâm thu thất Phải |
+|                     --            |                      --           |
+|![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/c5a90a8d-a38a-48a5-8948-d93b9477d6bc)| ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b0e02381-b679-4764-9893-6806d0ba5611)|
+
+- Ngoại tâm thu thất đa dạng:
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/214a1995-dbf3-48f0-96b2-897291061b9e)
+- Ngoại tâm thu thất gây rung thất (Trong VD này thì NTT thất nhịp đôi, R/T khởi kích cuồng thất với khoảng ghép cặp và hình dạng giống những NTT thất khác):
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/f3ce8bc0-28bf-4f8d-b3ce-139f2a88aeba)
+- Ngoại tâm thu thất nhịp đôi (Cứ một nhịp bình thường đến một nhịp ngoại tâm thu):
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/327fa681-9406-4c6e-ac71-8ce49a1b2f2e)
+- Ngoại tâm thu thất nhịp ba (Cứ hai nhịp bình thường đến một nhịp ngoại tâm thu)
+- Ngoại tâm thu thất nhịp bốn (Cứ ba nhịp bình thường đến một nhịp ngoại tâm thu)
+- Ngoại tâm thu thất chùm đôi:
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/8260774e-2acf-4ea8-8a23-21a29db180a6)
+- Ngoại tâm thu thất chùm 3:
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/0f4d52db-9ab6-45f6-bca5-0ca6795ac785)
+
 ## NHỒI MÁU PHỔI: ##
 
 *Có tổn thương:*
