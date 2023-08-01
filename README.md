@@ -223,7 +223,7 @@ C. DÀY 2 THẤT:
 
 ## NHỒI MÁU PHỔI: ##
 
-*Có tổn thương:*
+*Tiêu chuẩn tổn thương:*
 
 - S1: Sóng S ở D1
 - Q3: Sóng Q ở D3
