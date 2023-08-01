@@ -264,6 +264,7 @@ C. DÀY 2 THẤT:
 
 ## CUỒNG THẤT: ##
 
+- Sóng dạng hình sin, biên độ và tần số khá đều, xoay quanh một trục.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b1d5a575-5df3-4328-b81d-df8f054e59ef)
 
 ## HỘI CHỨNG W-P-W: ##
