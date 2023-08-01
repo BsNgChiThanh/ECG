@@ -261,6 +261,27 @@ C. DÀY 2 THẤT:
   - Trong trường hợp này ta thấy AVL soi gương với D3.
   - ![Untitled-1](https://github.com/BsNgChiThanh/ECG/assets/82578024/42a5b21d-e147-4c5d-add6-b3a873f3b467)
 
+**Tiến triển của nhồi máu cơ tim:**
+
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/6314f12d-b50a-47f2-87f4-579574ebffa9)
+
+**Định vị tổn thương:
+|Sóng tổn thương ở|Định vị vùng tổn thương|
+|--|--|
+|V1,V2|Vùng trước vách|
+|V3,V4|Vùng mõm tim|
+|V5,V6| Vùng bên|
+|V5,V6 và AVL (hoặc D1)|Vùng bên cao|
+|Từ V1 đến V6|vùng trước rộng|
+|V7 đến V12|Vùng sau thực (thực quản)| 
+|D2,D3,AVF|Vùng hoành|
+|Khi NMCT vùng hoành nên đo điện tim thất phải, ST ở V3R (Có một số sách nói V4R) chênh lên 1mm|Vùng hoành + thất phải|
+
+![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/fb03f73d-2470-4b0e-8937-2fe7ecb66888)
+![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/333cfcf4-21ee-4d24-99b2-33a7d6058ce8)
+![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/8de21631-a3cc-4594-a4b7-ac4d979977fb)
+
+
 ## RUNG CUỒNG NHĨ: ##
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/1b4329b9-6eb3-4312-bced-98d2ecdf29c0)
 - Rung nhĩ, cuồng nhĩ thì thường là nhịp tim không đều; cũng có những trường hợp rung vừa rung vừa cuồng nhĩ (gọi tắt là rung cuồng nhĩ).
