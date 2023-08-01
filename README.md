@@ -281,7 +281,20 @@ C. DÀY 2 THẤT:
 ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/333cfcf4-21ee-4d24-99b2-33a7d6058ce8)
 ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/8de21631-a3cc-4594-a4b7-ac4d979977fb)
 
-
+## HỘI CHỨNG BRUGADA ##
+- Chú ý đừng lẫn lộn giữa hội chứng Brugada với tiêu chuẩn Brugada trong nhịp nhanh QRS dãn rộng!
+- Hội chứng Brugada gồm 3 type.
+### HỘI CHỨNG BRUGADA TYPE 1: ###
+- ST chênh lên cao ở V1 và V2 (đôi khi cả V3) làm cho phức bộ QRS giống kiểu block nhánh phải. Đoạn ST có dạng cong vòm và đi dốc xuống nối tiếp vào 1 sóng T đảo chiều.
+- Tỉ lệ đột tử cao.
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/5cc9b0a5-44a9-41db-83e7-7e094543d54b)
+### HỘI CHỨNG BRUGADA TYPE 2: ###
+- Có ST > 2mm chênh lên ở V1 và V2 (đôi khi cả V3) hình mái sống trâu.
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/0b1beffe-82ee-4ee2-8eab-a9cb0ae1d8cf)
+### HỘI CHỨNG BRUGADA TYPE 2: ###
+- Có thể là hình thái của một trong hai loại 1 hoặc loại 2, nhưng với ST chênh < 2mm ở V1 và V2 (đôi khi cả V3).
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/cd370ed1-6ecd-4524-be80-0070c67c00ca)
+  
 ## RUNG CUỒNG NHĨ: ##
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/1b4329b9-6eb3-4312-bced-98d2ecdf29c0)
 - Rung nhĩ, cuồng nhĩ thì thường là nhịp tim không đều; cũng có những trường hợp rung vừa rung vừa cuồng nhĩ (gọi tắt là rung cuồng nhĩ).
