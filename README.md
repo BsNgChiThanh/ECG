@@ -150,10 +150,12 @@ C. BLOCK PHÂN NHÁNH TRÁI:
 A. DÀY NHĨ TRÁI:
   - P rộng ở D2 ≥ 0,12 giây.
   - Trục P lệch trái.
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/c5b74f26-43e7-4f35-b642-5465372e2317)
 
 B. DÀY NHĨ PHẢI:
   - P cao ở D2 ≥ 2,5mm
   - Trục P lệch phải.
+  - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/e6bbae7b-4ce8-45e4-9a91-ec0ac618b787)
 
 C. DÀY 2 NHĨ:
   - P ở D2 vừa rộng vừa cao trong tiêu chuẩn nói trên.
@@ -253,6 +255,16 @@ C. DÀY 2 THẤT:
 
 - Xoắn đỉnh là một dạng đặc hiệu của nhịp nhanh thất đa hình trên những bệnh nhân có khoảng QT dài. Xoắn đỉnh được đặc trưng bởi các phức bộ QRS với tần số nhanh, không đều, và có dạng như xoay xung quanh một trục cố định. Cơn xoắn đỉnh có thể tự cắt cơn một cách tự nhiên hoặc tiến triển thành cơn rung thất. Gây ảnh hưởng nặng nề lên huyết động và thường dẫn tới tử vong. Chẩn đoán bằng ECG. Điều trị bằng magiê theo đường tĩnh mạch, các biện pháp rút ngắn khoảng QT và khử rung tim bằng dòng điện 1 chiều khi rung thất xuất hiện.
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/90f27247-b3d3-4510-8492-865b908a21a2)
+
+## RUNG THẤT: ##
+
+- QRST không có hình dạng khoảng cách, hình thái, biên độ thay đổi nhanh, không đều (300 – 400 nhịp/phút)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/2c108810-b302-4f13-954b-e2845b72e175)
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/58be3432-dfee-4d9c-ad72-346329f541f1)
+
+## CUỒNG THẤT: ##
+
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/b1d5a575-5df3-4328-b81d-df8f054e59ef)
 
 ## HỘI CHỨNG W-P-W: ##
 
