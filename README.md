@@ -315,6 +315,11 @@ C. DÀY 2 THẤT:
 ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/333cfcf4-21ee-4d24-99b2-33a7d6058ce8)
 ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/8de21631-a3cc-4594-a4b7-ac4d979977fb)
 
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/7eaf6e37-e1dc-4e07-b70a-a6097770e4d6)
+- Hình ảnh trên là tắc LM rất nặng, đã can thiệp thành công.
+- [Hình ảnh đặt stent](https://youtu.be/lt1PlIsk_W0)
+
+
 ## HỘI CHỨNG BRUGADA ##
 
 - Chú ý đừng lẫn lộn giữa hội chứng Brugada với tiêu chuẩn Brugada trong nhịp nhanh QRS dãn rộng!
