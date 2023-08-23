@@ -316,10 +316,18 @@ C. DÀY 2 THẤT:
 ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/8de21631-a3cc-4594-a4b7-ac4d979977fb)
 
 - **Một số trường hợp cụ thể:**
+
+1. Trường hợp 1:
+
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/7eaf6e37-e1dc-4e07-b70a-a6097770e4d6)
 - Hình ảnh trên là tắc LM rất nặng, đã can thiệp thành công.
 - [Hình ảnh đặt stent](https://youtu.be/lt1PlIsk_W0)
 
+2. Trường hợp 2:
+
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/d3704b62-245c-4beb-ac22-ad37c48e40bc)
+- Hẹp rất nặng LAD, tắc RCA đoạn gần
+- [Hình ảnh đặt stent](https://youtu.be/6lyPm3hrBmQ)
 
 ## HỘI CHỨNG BRUGADA ##
 
