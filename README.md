@@ -319,12 +319,14 @@ C. DÀY 2 THẤT:
 
 1. Trường hợp 1:
 
+- Nam, 73 tuổi, đau ngực 4h, vả mồ hôi, HA 80/50 mmHg
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/7eaf6e37-e1dc-4e07-b70a-a6097770e4d6)
 - Hình ảnh trên là tắc LM rất nặng, đã can thiệp thành công.
 - [Hình ảnh đặt stent](https://youtu.be/lt1PlIsk_W0)
 
 2. Trường hợp 2:
 
+- Nữ 77 tuổi đau ngực 5 ngày, CKMB: 99.8 . Test Tropmin I (+)
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/d3704b62-245c-4beb-ac22-ad37c48e40bc)
 - Hẹp rất nặng LAD, tắc RCA đoạn gần
 - [Hình ảnh đặt stent](https://youtu.be/6lyPm3hrBmQ)
