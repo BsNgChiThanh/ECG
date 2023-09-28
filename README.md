@@ -335,6 +335,13 @@ C. DÀY 2 THẤT:
 - Hẹp rất nặng LAD, tắc RCA đoạn gần
 - [Hình ảnh đặt stent](https://youtu.be/6lyPm3hrBmQ)
 
+3. Trường hợp 3:
+
+- Bệnh nhân nam 85 tuổi, đau ngực giờ đầu, HA 140/90mmHg, ECG:
+- ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/420cd9e6-7afe-4313-bbbd-5a6ed0ceca43)
+- Nhồi máu cơ tim trước rộng.
+- Hình ảnh chụp động mạch vành (Đang cập nhật)
+    
 ## HỘI CHỨNG BRUGADA ##
 
 - Chú ý đừng lẫn lộn giữa hội chứng Brugada với tiêu chuẩn Brugada trong nhịp nhanh QRS dãn rộng!
