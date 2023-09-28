@@ -280,10 +280,10 @@ C. DÀY 2 THẤT:
 
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/31027c16-4b8a-4713-96f3-c54d5eec44ea)
 - Nhồi máu tối cấp vùng hoành:
+  - Nam 47 tuổi, Đau ngực 1h, ngất M 80 lần/phút, HA 120/80 mmHg, ECG:
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/c00d8ec4-abb4-4155-a65a-83a8756270a5)
-  - BN trên khi chụp động mạch vành kết quả hẹp nặng RCA II:
+  - BN trên khi chụp động mạch vành kết quả hẹp nặng RCA II: https://youtu.be/cnIdo1Y4z_Q
  
-
 2. Cấp:
 
 - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/3ff3e633-7d91-4fbb-8772-6a347a6db873)
