@@ -282,7 +282,7 @@ C. DÀY 2 THẤT:
 - Nhồi máu tối cấp vùng hoành:
   - ![image](https://github.com/BsNgChiThanh/ECG/assets/82578024/c00d8ec4-abb4-4155-a65a-83a8756270a5)
   - BN trên khi chụp động mạch vành kết quả hẹp nặng RCA II:
-  - https://github.com/BsNgChiThanh/ECG/assets/82578024/967d8501-f89e-4540-96a8-3e487f23447d
+ 
 
 2. Cấp:
 
